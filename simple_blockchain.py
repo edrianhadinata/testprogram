@@ -1,5 +1,6 @@
 """
 By Edrian Hadinata
+File ini di ubah
 """
 
 import hashlib
